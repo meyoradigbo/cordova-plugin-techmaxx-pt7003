@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-techmaxx-pt7003",
+  "version": "1.0.0",
+  "description": "Apache Cordova Printer Plugin for TechMaxx PT7003",
+  "cordova": {
+    "id": "cordova-plugin-techmaxx-pt7003",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meyoradigbo/cordova-plugin-techmaxx-pt7003.git"
+  },
+  "keywords": [
+    "cordova",
+    "printer",
+    "pos",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-techmaxx"
+  ],
+  "author": "Charles Meyor Adigbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meyoradigbo/cordova-plugin-techmaxx-pt7003/issues"
+  },
+  "homepage": "https://github.com/mribbons/cordova-plugin-techmaxx-pt7003#readme"
+}
+
